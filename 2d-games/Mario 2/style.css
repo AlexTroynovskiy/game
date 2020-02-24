@@ -1,0 +1,21 @@
+html body {
+  position: relative;
+  height: auto;
+  width: auto;
+  background-image: url("https://100velikih.com/uploads/images/f/o/n/fon_dlja_igri_solnishko.jpg");
+  padding: 10%;
+}
+
+canvas {
+  position: fixed;
+}
+
+h1 {
+  position: fixed;
+  margin-left: 140px;
+  text-align: center;
+  position: fixed;
+}
+.person {
+  transition: cubic-bezier(0.6, -0.28, 0.735, 0.045);
+}
